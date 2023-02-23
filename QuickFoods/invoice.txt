@@ -1,0 +1,20 @@
+Order number 1
+Customer: Ben Black
+Email: ben@jam.com
+Phone number: 031 999 4444
+Location: Durban
+
+You have the following from Toni's in Durban:
+
+1 x Regina Pizza (98.99)
+
+Special Instructions: None
+
+Total Amount: R98.99
+
+Eugene Santana is the nearest to the restaurant and will be delivering your order at: 
+
+234 Boston Ave.
+Durban
+
+If you need to contact the restaurant, their number is: 031 999 4444.
